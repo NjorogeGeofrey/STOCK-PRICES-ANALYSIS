@@ -28,7 +28,7 @@ Usage
 Stock_Price_Prediction.R: Main R script containing the code for data retrieval, preprocessing, EDA, model building (ARIMA, logistic regression, XGBoost, random forest), model evaluation, and visualization.
 README.md: This file providing an overview, usage instructions, and description of the repository.
 
-##BData
+## Data
 The dataset used for analysis covers the stock information of Samsung Electronics Co., Ltd. from July 15, 2010, to the present. The dataset includes the following columns:
 
 005930.KS.Open: Opening price of Samsung stock on a given day.
