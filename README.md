@@ -22,7 +22,7 @@ forecast
 ## Usage
 Open the Stock_Price_Prediction.R file in your R environment.
 
-## Run the code blocks sequentially to execute data retrieval, preprocessing, model building, and evaluation.
+Run the code blocks sequentially to execute data retrieval, preprocessing, model building, and evaluation.
 
 ## Description
 Stock_Price_Prediction.R: Main R script containing the code for data retrieval, preprocessing, EDA, model building (ARIMA, logistic regression, XGBoost, random forest), model evaluation, and visualization.
