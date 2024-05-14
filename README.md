@@ -18,9 +18,9 @@ gridExtra
 Hmisc
 caTools
 forecast
-Usage
 
-## Open the Stock_Price_Prediction.R file in your R environment.
+## Usage
+Open the Stock_Price_Prediction.R file in your R environment.
 
 ## Run the code blocks sequentially to execute data retrieval, preprocessing, model building, and evaluation.
 
